@@ -30,7 +30,6 @@ def createFile(filename):
 def download(filename):
     with open(filename,"rb") as rdpdf:
         st.download_button("Download",rdpdf.read(),filename) 
-     
 
 with tab1:
 
@@ -73,4 +72,3 @@ with tab2:
 
         else:
             st.success("PDF is already unlocked.")
-
