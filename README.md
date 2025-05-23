@@ -27,13 +27,14 @@ Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF 
 
 ---
 
+
 ## 📦 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdf-secure.git
-cd pdf-secure
+git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
+cd PDFSecure
 ```
 
 Install dependencies:
@@ -41,7 +42,6 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ## 👨‍💻 Contributing
 
