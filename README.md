@@ -27,7 +27,6 @@ Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF 
 
 ---
 
-
 ## 📦 Installation
 
 Clone the repository:
@@ -80,4 +79,5 @@ Contributions are welcome! 🎉
    ```
 
 7. **🔁 Create a Pull Request**
-   Go to your fork on GitHub and click on **Compare & pull request**. Submit your pull request to the `main` branch with a description of your changes.
+   - Go to your fork on GitHub and click on **Compare & pull request**.
+   - Submit your pull request to the `main` branch with a description of your changes.
