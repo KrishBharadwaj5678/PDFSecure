@@ -17,6 +17,16 @@ Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF 
 
 ---
 
+## 🧰 Tech Stack
+
+| Technology | Description                                     |
+|------------|-------------------------------------------------|
+| 🐍 Python  | Core programming language used for development  |
+| 📊 Streamlit | Frontend interface for an interactive web app |
+| 📄 PyPDF2  | Library used for encrypting, and decrypting PDF |
+
+---
+
 ## 📦 Installation
 
 Clone the repository:
