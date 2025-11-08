@@ -2,7 +2,7 @@
 
 Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF passwords! 🛡️
 
----
+![PDFSecure](https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/PDFSecure.png)
 
 ## ✨ Features
 
@@ -41,6 +41,8 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
 
 ## 👨‍💻 Contributing
 
