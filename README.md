@@ -29,57 +29,33 @@ Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF 
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
-cd PDFSecure
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 👨‍💻 Contributing
-
-Contributions are welcome! 🎉
-
-### 🛠️ How to Contribute
-
-1. **🍴 Fork the Repository**  
-
-2. **📥 Clone Your Fork**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
    cd PDFSecure
-   ````
-
-3. **🌿 Create a New Branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
    ```
 
-4. **🧑‍💻 Make Your Changes**
-
-5. **💾 Commit Your Changes**
+2. Install dependencies:
 
    ```bash
-   git add .
-   git commit -m "Add: [Your clear commit message here]"
+   pip install -r requirements.txt
    ```
 
-6. **🚀 Push to Your Fork**
+3) Run the app locally with Streamlit:
 
-   ```bash
-   git push origin feature/your-feature-name
-   ```
+    ```bash
+    streamlit run app.py
+    ```
+    
+---
 
-7. **🔁 Create a Pull Request**
-   - Go to your fork on GitHub and click on **Compare & pull request**.
-   - Submit your pull request to the `main` branch with a description of your changes.
+## Contributing 🤝
+
+Want to contribute? Here's how:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
