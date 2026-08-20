@@ -3,7 +3,7 @@ from PyPDF2 import PdfWriter,PdfReader
 
 st.set_page_config(
     page_title="Encrypt & Decrypt PDF document",
-    page_icon="icon.png",
+    page_icon="./assets/icons/icon.png",
     menu_items={
         "About":"PDF Secure is your go-to solution for encrypting and decrypting PDF passwords. Encrypt your PDFs to protect confidential information or decrypt them for easy access. Download your files securely and enjoy peace of mind knowing your documents are safe with PDF Secure."
     }
@@ -32,7 +32,6 @@ def download(filename):
         st.download_button("Download",rdpdf.read(),filename) 
 
 with tab1:
-
     file=rd_pdf(1)
     if file:
         pasword=st.text_input("Set a password to protect your PDF file",placeholder="Type password",type="password")
