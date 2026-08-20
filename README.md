@@ -1,61 +1,84 @@
-# 🔐 PDF Secure
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/PDFSecure.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/PDFSecure?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/PDFSecure?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/PDFSecure?style=for-the-badge&color=blue" />
+</p>
 
-Welcome to **PDF Secure** your go to solution for encrypting and decrypting PDF passwords! 🛡️
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![PDFSecure](https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/PDFSecure.png)
+<h1 align="center">🔐 PDF Secure</h1>
 
-## ✨ Features
+<p align="center">
+   PDF Secure makes it easy to encrypt, protect, and decrypt your PDF documents with powerful password security. 
+</p>
+   
+![PDFSecureDemo](https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/demos/PDFSecure.png)
+
+<img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature                           | Description                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
 | 🔒 Encrypt PDFs                   | Protect your PDFs with strong password encryption                          |
 | 🔓 Decrypt PDFs                   | Easily remove password protection from secured PDFs                        |
 | 📂 Secure File Handling           | Ensures your files are managed safely                                      |
-| 💻 Simple & Intuitive Interface   | Easy to use, even for non-technical users                                  |
 | 🚀 Fast & Lightweight             | Minimal dependencies and optimized for performance                         |
 | 🧩 Cross-Platform Support         | Works seamlessly on Windows, macOS, and Linux                              |
 
----
+<img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🧰 Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology | Description                                     |
-|------------|-------------------------------------------------|
-| 🐍 Python  | Core programming language used for development  |
-| 📊 Streamlit | Frontend interface for an interactive web app |
-| 📄 PyPDF2  | Library used for encrypting, and decrypting PDF |
+| Technology | Description |
+|------------|-------------|
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core programming language used for development |
+| <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25"/> **Streamlit** | Frontend framework for building an interactive webapp |
+| 🔐 **PyPDF2** | Library used for encrypting and decrypting PDF files |
 
----
+<img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 📦 Installation
+## <img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
-1. Clone the repository:
+### 1️⃣ Clone the Repository
 
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
-   cd PDFSecure
-   ```
+```bash
+git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
+```
 
-2. Install dependencies:
+### 2️⃣ Navigate to the Project
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+cd PDFSecure
+```
 
-3) Run the app locally with Streamlit:
+### 3️⃣ Navigate to the Project
 
-    ```bash
-    streamlit run app.py
-    ```
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the app
+
+```bash
+streamlit run app.py
+```
     
----
+<img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/PDFSecure/raw/main/assets/readme/footer.gif" width="320px"/>
+</p>
