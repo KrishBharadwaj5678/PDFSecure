@@ -59,7 +59,7 @@ git clone https://github.com/KrishBharadwaj5678/PDFSecure.git
 cd PDFSecure
 ```
 
-### 3️⃣ Navigate to the Project
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
